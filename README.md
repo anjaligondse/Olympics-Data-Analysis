@@ -12,6 +12,7 @@
 
  Author- Anjali Pandurang Gondse
  
-![Olympic](https://user-images.githubusercontent.com/104161600/187060430-7d9780a1-2a54-446a-9a5a-21ea1b159b8f.png)
+![oly](https://user-images.githubusercontent.com/104161600/187060451-2feba366-c6a4-48b7-a08f-28fb617ee5a4.jpg)
+
 
 
